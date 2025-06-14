@@ -1,11 +1,15 @@
-# Evidencia 2: Creación y consumo de una API
+# Felicitas Islas Vigueras - 1123150051
+# Materia: 6D Aplicaciones Web Orientadas a Servicios
+# Maestro: Enrique Mascote
+# Actividad: Evidencia 2: Creación y consumo de una API
 
-## ✅ Objetivo
+
+
 Crear una API básica con Node.js (Express) y un cliente en JavaScript que consuma la API utilizando `fetch()`.
 
 ---
 
-## 📡 Código del API (Node.js)
+
 
 ```javascript
 const express = require('express');
@@ -25,7 +29,7 @@ app.listen(3000, () => {
 
 ---
 
-## 💻 Código del Cliente (HTML + JS)
+
 
 ```html
 <!DOCTYPE html>
@@ -52,7 +56,7 @@ app.listen(3000, () => {
 
 ---
 
-## 📷 Resultado Esperado
+
 
 Al abrir el archivo `index.html` en el navegador con el servidor en ejecución, se debe mostrar:
 
@@ -62,7 +66,7 @@ Al abrir el archivo `index.html` en el navegador con el servidor en ejecución, 
 
 ---
 
-## 🚀 Cómo ejecutar
+
 
 1. Instalar dependencias:
    ```bash
@@ -74,4 +78,4 @@ Al abrir el archivo `index.html` en el navegador con el servidor en ejecución, 
    node api/index.js
    ```
 
-3. Abrir `cliente/index.html` en un navegador.
+3. Abrir `cliente/index.html` en el navegador.
