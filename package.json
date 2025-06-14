@@ -1,0 +1,16 @@
+{
+  "name": "api-cliente-evidencia2",
+  "version": "1.0.0",
+  "description": "## ✅ Objetivo Crear una API básica con Node.js (Express) y un cliente en JavaScript que consuma la API utilizando `fetch()`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
