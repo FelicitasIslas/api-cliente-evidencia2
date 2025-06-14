@@ -66,16 +66,3 @@ Al abrir el archivo `index.html` en el navegador con el servidor en ejecución, 
 
 ---
 
-
-
-1. Instalar dependencias:
-   ```bash
-   npm install express cors
-   ```
-
-2. Iniciar el servidor:
-   ```bash
-   node api/index.js
-   ```
-
-3. Abrir `cliente/index.html` en el navegador.
