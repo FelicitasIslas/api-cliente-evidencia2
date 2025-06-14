@@ -62,7 +62,6 @@ Al abrir el archivo `index.html` en el navegador con el servidor en ejecución, 
 
 ```
 ¡Hola desde Express!
-```
 
----
+```
 
